@@ -28,7 +28,7 @@ function getBigger(first,second,third){
     }
 }
 var bussinessman =450;
-var minister = 850;
+var minister = 350;
 var army = 644;
 var getBiggetResult = getBigger(bussinessman,minister,army);
 console.log(getBiggetResult);
